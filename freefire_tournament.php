@@ -1,8 +1,8 @@
 <?php
 // Database configuration
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'gateway01.ap-southeast-1.prod.aws.tidbcloud.com');
+define('DB_USER', '2aHU8nKsAigPq3K.root');
+define('DB_PASS', 'J2pFnIFqz4aTKtlM');
 define('DB_NAME', 'freefire_tournament');
 
 // Create a database connection
